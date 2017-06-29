@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">update</string>
+    <string name="UMUpdateTitle">版本更新</string>
+    <string name="UMUpdateNow">更新</string>
+    <string name="UMNotNow">暂不更新</string>
+    <string name="UMUpdateCancel">取消</string>
+    <string name="UMUpdating">正在更新</string>
+</resources>
